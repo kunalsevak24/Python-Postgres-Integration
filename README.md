@@ -1,4 +1,4 @@
-# Project 1: PostgreSQL and Python Integration
+# Project: PostgreSQL and Python Integration
 
 # Objective
 * Integrate Python with PostgreSQL using the psycopg2 library.
